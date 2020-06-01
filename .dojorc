@@ -1,0 +1,8 @@
+{
+	"build-app": {
+		"base": "/output/dev/",
+		"bundles": {
+			"cool": [ "./src/thing/Test" ]
+		}
+	}
+}
